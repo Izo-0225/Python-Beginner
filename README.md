@@ -5,3 +5,4 @@
 2-1 顏色辨識：Import the activation function into the neural network to distinguish red and blue flowers based on the length and width scale.
 三家股票：yahoo finance Download multiple stock information.
 鬆餅與杯子蛋糕 練習：The SVM model is used to identify the two categories of muffin and cupcake with sugar and butter variables.
+情緒分析：This program practices English sentiment score analysis.
