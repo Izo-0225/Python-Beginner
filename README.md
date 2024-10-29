@@ -10,3 +10,4 @@
 成熟度辨別：Smart agriculture uses images to identify the maturity of fruits, and then automatically picks them with machines to save manpower.
 顏色辨別 作業：Through color space conversion and background removal, the specified color can be identified.
 貪吃蛇：Use the left, right, up and down keys to control the snake to quickly find food and accumulate points. When the snake hits the edge of the frame, it dies on the spot. Adjust the difficulty level through the Difficulty setting.
+5-2 汽油消耗練習：Using gasoline consumption data, random forest is used to obtain the optimal variables of feature importance. Also compare the accurate prediction results of models such as SVM, KNN, Logistic Regression, Random Forest, Naive Bayes, Perceptron, Stochastic Gradient Decent, and Decision Tree.
