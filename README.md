@@ -15,3 +15,4 @@
 腦瘤：Go online to obtain the training data and set it in the custom path of the Brain Tumer image folder with brain tumors (Yes) and without brain tumors (No), and set it to randomly select the relevant pictures of the two.
 HW5.3-Copy1：Use Boston housing price data to conduct regression tree analysis, draw a coefficient heat map, and predict the accuracy.
 11-22 9-1 人臉辨識 作業：The face recognition program is divided into four types of codes, including counting the number of people in the picture, face comparison, face pattern segmentation, and multiple photo face recognition. Use the face recognition library to perform face position recognition, face coding recognition, etc., and perform similar comparisons. Readers can download other photos for practice.
+14-1 控制眨眼：Chapter 12 Exercises
